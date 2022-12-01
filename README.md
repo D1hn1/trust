@@ -1,5 +1,8 @@
 # TRUST
-## TRUSTED
-- A windows dhcp discovery attack
-## UNTRUSTED
-- A windows dhcp starvation attack
+```python
+def TRUSTED():
+  return "A windows dhcp discovery attack"
+
+def UNTRUSTED:
+  return "A windows dhcp starvation attack"
+```
